@@ -7,7 +7,7 @@ import json
 process = CrawlerProcess(get_project_settings())
 
 # url取得
-json_open = open('./response.json', 'r')
+json_open = open('./responce.json', 'r')
 json_load = json.load(json_open)
 
 

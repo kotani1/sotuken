@@ -1,0 +1,75 @@
+<mxfile host="65bd71144e">
+    <diagram id="zjuB8PvZY1BviQJbQEAM" name="ページ1">
+        <mxGraphModel dx="1643" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="s" style="whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;strokeColor=#36393d;fillColor=#f9f7ed;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="320" y="50" width="790" height="790" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;font style=&quot;font-size: 21px;&quot; color=&quot;#19050f&quot;&gt;香川県　水不足&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#ededed;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="65" width="170" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="現状" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontColor=#19050F;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="130" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="原因" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontColor=#19050F;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="320" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="対策" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontColor=#19050F;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="470" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="s雨裏" style="whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;strokeColor=#36393d;fillColor=#f9f7ed;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="370" y="850" width="650" height="650" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" style="edgeStyle=none;html=1;strokeColor=#000000;fontSize=21;fontColor=#19050F;endArrow=none;endFill=0;" edge="1" parent="1" source="9" target="11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="香川　水不足" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#666666;fontSize=21;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="1110" width="270" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="スパイダー図" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontColor=#19050F;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="900" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="香川用水" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#666666;fontSize=21;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="1250" width="170" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=21;fontColor=#19050F;" edge="1" parent="1" source="12" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=none;html=1;fontSize=21;fontColor=#19050F;strokeColor=#000000;endArrow=none;endFill=0;" edge="1" parent="1" source="12" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="早明浦ダム" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#666666;fontSize=21;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
+                    <mxGeometry x="830" y="1280" width="180" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=21;fontColor=#19050F;endArrow=none;endFill=0;" edge="1" parent="1" source="16" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" style="edgeStyle=none;html=1;strokeColor=#000000;fontSize=21;fontColor=#15050d;endArrow=none;endFill=0;" edge="1" parent="1" source="16" target="11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="吉野川" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#666666;fontSize=21;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
+                    <mxGeometry x="615" y="1320" width="180" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=21;fontColor=#19050F;endArrow=none;endFill=0;" edge="1" parent="1" target="9">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="704.9999999999998" y="1060" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="瀬戸内海式気候" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#666666;fontSize=21;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
+                    <mxGeometry x="615" y="970" width="180" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="&lt;span style=&quot;color: rgb(4, 12, 40); font-family: &amp;quot;Google Sans&amp;quot;, arial, sans-serif; font-size: 20px; background-color: rgb(255, 255, 255);&quot;&gt;瀬戸内海式気候で、雨が少なく、また、雨が降っても、川の延長が短く急こう配のため、すぐに海に流れ込むという地理的条県があげられます&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontColor=#19050F;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="390" width="560" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 游ゴシック, YuGothic, 游ゴシック体, &amp;quot;ヒラギノ角ゴ Pro W3&amp;quot;, メイリオ, sans-serif; font-size: 21px; text-align: start;&quot;&gt;香川用水により本県の水資源の約3割、特に水道用水では約5割が供給されています。しかしながら、近年、気候変動に伴う少雨化の傾向や降水量の変動幅の増大などにより、香川用水の取水制限が頻発する傾向にあります。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#FFFFFF;fontSize=21;fontColor=#19050F;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="220" width="530" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="&lt;span id=&quot;docs-internal-guid-51ccad16-7fff-34ff-c38e-ddee99d11b2e&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 13pt; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;ダムの建設&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;　工業用水や農業用水の転用、下水処理水の河川への還流利用も検討課題としています。&lt;/span&gt;&lt;/p&gt;&lt;h4 style=&quot;line-height: 1.68; margin-right: 4pt; margin-top: 8pt; margin-bottom: 6pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 13pt; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;ため池等の利用&lt;/span&gt;&lt;/h4&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;　ため池の整備、かさ上げなどを行い．貯水量をふやしたりしています。&lt;/span&gt;&lt;/p&gt;&lt;h4 style=&quot;line-height: 1.68; margin-right: 4pt; margin-top: 8pt; margin-bottom: 6pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 13pt; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;水源の保全&lt;/span&gt;&lt;/h4&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;　ダム周辺の植樹の推進、水源地域の地下水の涵養や水源林の保全を促進しています。&lt;/span&gt;&lt;/p&gt;&lt;h4 style=&quot;line-height: 1.68; margin-right: 4pt; margin-top: 8pt; margin-bottom: 6pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 13pt; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;海水の利用&lt;/span&gt;&lt;/h4&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;　海水の淡水化が研究されていますが、コストの点など引き続き調査検討がされています。&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#FFFFFF;fontSize=21;fontColor=#15050d;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="510" width="610" height="290" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

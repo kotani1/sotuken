@@ -6,7 +6,7 @@ from ana_crawl.items import AnaCrawlItem
 class AnaSpiderSpider(scrapy.Spider):
     name = "ana_spider"
 
-    handle_httpstatus_list = [302]
+    handle_httpstatus_list = [301,302]
 
     # allowed_domains = ['mitoyo-city.note.jp']
     # start_urls =['https://mitoyo-city.note.jp/n/na3afe4cd6284']
@@ -14,11 +14,11 @@ class AnaSpiderSpider(scrapy.Spider):
     allowed_domains = []
     start_urls =[]
 
-    # def __init__(self, domain,url):
-    #     super(AnaSpiderSpider, self).__init__()
-    #     self.allowed_domains = [domain]
-    #     self.start_urls = [url]
-    #     self.rank = int()
+    def __init__(self, domain,url):
+        super(AnaSpiderSpider, self).__init__()
+        self.allowed_domains = [domain]
+        self.start_urls = [url]
+        self.rank = int()
 
     def parse(self, response):
         item = AnaCrawlItem()
@@ -40,5 +40,5 @@ class AnaSpiderSpider(scrapy.Spider):
         item["body"] = text
         item["page_url"] = self.start_urls
 
-        # yield item
+        yield item
         print(text)

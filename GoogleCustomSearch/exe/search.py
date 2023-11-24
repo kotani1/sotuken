@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
 import os
 import datetime
 import json
@@ -53,6 +52,6 @@ def getSearchResponse(keyword):
 
 if __name__ == '__main__':
 
-    target_keyword = '日本　過疎化　問題点'
+    target_keyword = '香川県　水不足　原因'
 
     getSearchResponse(target_keyword)
